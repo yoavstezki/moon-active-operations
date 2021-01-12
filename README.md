@@ -1,7 +1,7 @@
 # moon-active-operations
 
 
-## Installation
+## Installation:
 
 ```
 $ cd <your_project>
